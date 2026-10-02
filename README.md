@@ -1,79 +1,77 @@
-# TechPath — Portal de Orientação para Carreiras em Tecnologia
+# INTEGRA — Portal Acadêmico
 
-## 📌 Sobre o projeto
+## Portal de Serviços Acadêmicos
 
-O **TechPath** é um portal web desenvolvido com o objetivo de auxiliar pessoas interessadas em ingressar ou se desenvolver na área de Tecnologia da Informação.
+Projeto desenvolvido para a disciplina de **Programação Web - Front-End**, com o objetivo de criar um Portal de Serviços voltado ao ambiente acadêmico.
 
-O projeto apresenta informações sobre diferentes áreas da tecnologia, orientações sobre carreiras, trilhas de aprendizagem e um canal de contato para dúvidas e sugestões.
-
-O portal possui uma interface moderna, responsiva e voltada para facilitar a navegação e a descoberta de diferentes possibilidades profissionais dentro da tecnologia.
+O projeto apresenta uma interface web moderna e responsiva para centralizar serviços e recursos que podem auxiliar estudantes em sua rotina universitária.
 
 ---
 
-## 🎯 Objetivo
+## 🎓 Sobre o Projeto
 
-O principal objetivo do projeto é criar uma plataforma simples e acessível para pessoas que ainda não sabem qual área da tecnologia seguir.
+O **INTEGRA — Portal Acadêmico** foi desenvolvido como uma proposta de portal institucional da fictícia **Universidade Integra**.
 
-O portal busca apresentar:
+A plataforma reúne diferentes serviços acadêmicos em um único ambiente, facilitando o acesso dos estudantes a ferramentas e informações relacionadas à vida universitária.
 
-- Diferentes áreas profissionais da tecnologia;
-- Características de cada área;
-- Orientações para escolha de carreira;
-- Trilhas e possibilidades de aprendizagem;
-- Formas de contato para dúvidas e orientações.
+O projeto foi desenvolvido utilizando tecnologias fundamentais de desenvolvimento web Front-End.
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Serviços Disponíveis
 
-### Página inicial
+O portal apresenta os seguintes serviços:
 
-A página inicial apresenta uma visão geral do portal e seus principais recursos.
+### 📊 Calculadora de Notas
 
-Entre os elementos apresentados estão:
+Ferramenta destinada ao cálculo e acompanhamento das notas acadêmicas, auxiliando o estudante a verificar seu desempenho nas disciplinas.
 
-- Apresentação do TechPath;
-- Chamada para descoberta de perfil;
-- Principais áreas da tecnologia;
-- Etapas para conhecer e escolher uma carreira;
-- Links de navegação para outras páginas.
+### 📅 Agenda Acadêmica
 
-### Serviços
+Área destinada à organização de compromissos acadêmicos, como aulas, provas, trabalhos e outras atividades.
 
-A página de serviços apresenta os principais recursos oferecidos pelo portal:
+### ✅ Lista de Tarefas
 
-- **Teste de Perfil Tecnológico**
-- **Guia de Carreiras em Tecnologia**
-- **Cursos e Trilhas de Aprendizagem**
+Ferramenta para organização das atividades e trabalhos que precisam ser realizados pelo estudante.
 
-Também são apresentadas diferentes áreas de atuação em tecnologia.
+### 📚 Materiais de Estudo
 
-### Contato
+Espaço destinado à organização e acesso a materiais utilizados durante os estudos.
 
-A página de contato permite que o usuário preencha um formulário contendo:
+### 🎯 Foco nos Estudos
 
-- Nome;
-- E-mail;
-- Assunto;
-- Mensagem.
-
-A página também apresenta informações de contato e uma seção de perguntas frequentes.
+Recurso pensado para auxiliar o estudante na organização de sua rotina de estudos e concentração.
 
 ---
 
-## 💻 Tecnologias utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-O projeto foi desenvolvido utilizando tecnologias web fundamentais:
+O projeto foi desenvolvido utilizando:
 
-- **HTML5** — estrutura das páginas;
-- **CSS3** — estilização, layout, responsividade e animações;
-- **Google Chrome / navegador web** — execução e testes locais;
-- **Git** — controle de versão;
-- **GitHub** — armazenamento e gerenciamento do código-fonte.
+- HTML5
+- CSS3
+- Git
+- GitHub
+
+### HTML5
+
+Utilizado para estruturar as páginas e os conteúdos do portal.
+
+### CSS3
+
+Utilizado para criar a identidade visual, layout, responsividade, componentes e efeitos da interface.
+
+### Git
+
+Utilizado para controle de versão do projeto.
+
+### GitHub
+
+Utilizado para armazenamento e gerenciamento do código-fonte.
 
 ---
 
-## 📁 Estrutura do projeto
+## 📁 Estrutura do Projeto
 
 ```text
 Portal-de-Servico/
@@ -81,9 +79,11 @@ Portal-de-Servico/
 ├── index.html
 ├── servicos.html
 ├── contato.html
+├── README.md
 │
 ├── css/
 │   └── estilo.css
 │
 └── img/
-    └── imagens do projeto
+    ├── imagem-portal.png
+    └── logo-portal.ico
